@@ -73,7 +73,15 @@ jupyter notebook notebooks/covid_analysis.ipynb
 ---
 
 ## 📸 Sample Output
-(Add screenshots of your graphs here)
+## 📸 Sample Outputs
+
+<p align="center">
+  <img src="./outputs/ConfirmedCovidCasesInTopCountries.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="./outputs/MonthlyCovidTrendIndia.png" width="700"/>
+</p>
 
 
 ---
